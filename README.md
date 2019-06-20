@@ -1,5 +1,4 @@
-# employ
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -145,9 +144,4 @@ margin-top:3px;
 </body>
 </html>
 
-
-
-
-</body>
-</html>  
 
